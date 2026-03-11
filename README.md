@@ -29,6 +29,7 @@ if (a == b) {
  console.log('Iguais');
 } else {
  console.log ('Diferentes');
+}
 ```
 
 ```
